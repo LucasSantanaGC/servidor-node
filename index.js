@@ -12,4 +12,4 @@ server.listen(3000, () => {
   console.log('servidor ativo LUCAS!')
 })
 
-console.log("teste")
+console.log("teste 2")
