@@ -11,3 +11,5 @@ res.end('<h1>Servidor conectado com sucesso Lucas !!!</h1>')
 server.listen(3000, () => {
   console.log('servidor ativo LUCAS!')
 })
+
+console.log("teste")
